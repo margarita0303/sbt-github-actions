@@ -16,6 +16,8 @@
 
 package sbtghactions
 
+/* комментарий */
+
 import sbt._
 
 trait GenerativeKeys {
